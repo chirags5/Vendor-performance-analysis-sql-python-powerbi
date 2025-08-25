@@ -120,8 +120,8 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](<img width="1430" height="801" alt="Dashnoard image" src="https://github.com/user-attachments/assets/b16f5c49-3058-4751-9270-5042e3c9f305" />
-)
+<img width="1430" height="801" alt="Dashnoard image" src="https://github.com/user-attachments/assets/6f17566d-55b7-4f74-9ac4-8ab4851fb920" />
+
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
